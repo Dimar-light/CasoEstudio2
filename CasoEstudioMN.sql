@@ -18,6 +18,9 @@
 --
 -- Table structure for table `casassistema`
 --
+CREATE DATABASE IF NOT EXISTS CasoEstudioMN;
+
+USE CasoEstudioMN;
 
 DROP TABLE IF EXISTS `casassistema`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
